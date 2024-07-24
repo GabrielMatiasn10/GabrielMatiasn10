@@ -2,27 +2,33 @@
 
 <div> 
 
-<h1 align="center">Ei 👋, e aí?</h1>
+<h1 align="left">olá, sou Gabriel Matias</h1>
 
 ###
 
-<p align="center">Sou Gabriel Matias.</p>
+<p align="left">Sou Gabriel Matias.</p>
 
 ###
 
-<h2 align="center">Sobre mim</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="center">✨ Desenvolver Junior.<br>📚 Estou cursando, analise e desenvolvimento de sistemas<br>🎯<br> Gostou bastante de aprender coisas novas, e ajudar a quem precisa </p>
+<p align="center"> Desenvolver Junior.
+  <br> Estou cursando, analise e desenvolvimento de sistemas<br>
+ Gostou bastante de aprender coisas novas, e ajudar a quem precisa
+</p>
 
-<h2 align="center"> Tenho experiência </h2>
-
-<p align="center">Javascript.<br>React.js.<br> TypeScript. <br> Node.js </p>
+<h2 align="left"> Tenho experiência </h2>
+<p align="left">
+  Javascript.
+  <br>React.js.
+  <br> TypeScript. 
+  <br> Node.js </p>
 
 ###
 
-<h2 align="center">I code with</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
