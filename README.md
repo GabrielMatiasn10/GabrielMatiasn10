@@ -1,38 +1,38 @@
 
 
-<div> 
 
-<h1 align="left">olá, sou Gabriel Matias</h1>
 
-###
+<h1 align="center">Olá, sou Gabriel Matias</h1>
 
-<p align="left">Sou Gabriel Matias.</p>
-
-###
 
 <h2 align="left">Sobre mim</h2>
 
-###
+ **Desenvolver Junior.**
 
-<p align="center"> Desenvolver Junior.
-  <br> Estou cursando, analise e desenvolvimento de sistemas<br>
- Gostou bastante de aprender coisas novas, e ajudar a quem precisa
-</p>
+ **Estou cursando Análise e Desenvolvimento de Sistemas.**
 
-<h2 align="left"> Tenho experiência </h2>
-<p align="left">
-  Javascript.
-  <br>React.js.
-  <br> TypeScript. 
-  <br> Node.js </p>
+ **Gosto bastante de aprender coisas novas e ajudar a quem precisa**
 
-###
 
-<h2 align="left">I code with</h2>
+<h2 align="left"> Tenho experiência em </h2>
 
-###
 
-<div align="center">
+- **Javascript**
+
+- **React.js**
+
+- **TypeScript**
+
+- **Node.js**
+
+- **Styled Components**
+
+
+<h2 align="left">Eu programo com</h2>
+
+
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -44,8 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
 </div>
-
-###
 
 </div>
 
@@ -65,6 +63,12 @@
 <a href="https://www.instagram.com/gabrielmnunes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
  
+
+
+
+
+<div> 
+
 
 
 
