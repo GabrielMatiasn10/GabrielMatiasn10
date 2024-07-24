@@ -6,23 +6,27 @@
 
 ###
 
-<p align="center">My name is ... and I'm a ..., from ....</p>
+<p align="center">Sou Gabriel Matias.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">Sobre mim</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="center">✨ Desenvolver Junior.<br>📚 Estou cursando, analise e desenvolvimento de sistemas<br>🎯<br> Gostou bastante de aprender coisas novas, e ajudar a quem precisa </p>
+
+<h2 align="center"> Tenho experiência </h2>
+
+<p align="center">Javascript.<br>React.js.<br> TypeScript. <br> Node.js </p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
