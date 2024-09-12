@@ -11,7 +11,7 @@
 
  **Estou cursando Análise e Desenvolvimento de Sistemas.**
 
- **Gosto bastante de aprender coisas novas e ajudar a quem precisa**
+ **Gosto bastante de aprender coisas novas e ajudar a quem precisa!**
 
 
 <h2 align="left"> Tenho experiência em </h2>
