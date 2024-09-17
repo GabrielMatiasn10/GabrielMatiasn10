@@ -17,7 +17,7 @@
 <h2 align="left"> Tenho experiência em </h2>
 
 
-- **Javascript**
+- **JavaScript**
 
 - **React.js**
 
