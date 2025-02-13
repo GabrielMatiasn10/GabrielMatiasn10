@@ -19,6 +19,8 @@
 
 - **JavaScript**
 
+- **Next**
+
 - **React.js**
 
 - **TypeScript**
