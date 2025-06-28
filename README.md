@@ -26,7 +26,7 @@ Acredito firmemente no poder do aprendizado contínuo e na importância da colab
 
 ---
 
-<h2 align="left">�� Minha Missão e o Que Estou Fazendo Agora</h2>
+<h2 align="left">Minha Missão e o Que Estou Fazendo Agora</h2>
 
 Minha missão é desenvolver soluções digitais que não apenas resolvam problemas, mas que também inspirem e facilitem a vida das pessoas. Busco constantemente oportunidades para aplicar minhas habilidades em projetos desafiadores e impactantes.
 
