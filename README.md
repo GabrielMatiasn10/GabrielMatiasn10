@@ -10,9 +10,7 @@
   <!-- Animação de digitação: Agora com uma mensagem que convida à ação e revela mais da sua essência. -->
   
 </div>
-
 ---
-
 <h2 align="left">✨ Sobre mim: Minha Jornada e Paixão por Tecnologia</h2>
 
 Sou um Desenvolvedor FullStack e Analista de Sistemas, apaixonado por explorar as fronteiras da tecnologia e criar soluções que realmente fazem a diferença. Nascido e criado em Recife, PE, minha curiosidade por como as coisas funcionam me impulsionou para o mundo da programação, onde encontrei meu verdadeiro propósito: **transformar desafios em código e inovação.**
