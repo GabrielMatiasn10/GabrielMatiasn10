@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Sobre mim
+## Sobre mim
 
 Sou um **Desenvolvedor Full Stack** e **Analista de Sistemas**, apaixonado por transformar ideias em soluções digitais que impactam pessoas e negócios.  
 Nascido em Recife (PE), encontrei na tecnologia uma forma de unir criatividade, propósito e impacto social por meio do código.
@@ -28,7 +28,7 @@ Acredito que **boas práticas**, **aprendizado contínuo** e **colaboração** c
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -47,7 +47,7 @@ Acredito que **boas práticas**, **aprendizado contínuo** e **colaboração** c
 
 
 
-## 📬 Vamos Conversar
+## Vamos Conversar
 
 <div align="center">
 
@@ -59,7 +59,6 @@ Acredito que **boas práticas**, **aprendizado contínuo** e **colaboração** c
 
 <p align="center">
     <strong>Gabriel Matias</strong>  
-  <br>💻 <em>“Construindo soluções, uma linha de código por vez.”</em>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,100:00bfbf&height=120&section=footer"/>
