@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <h1 align="center">
   Olá, eu sou o <strong>Gabriel Matias</strong>  
-  <br>💻 Desenvolvedor Full Stack | Recife - PE
+  <br>Desenvolvedor Full Stack | Recife - PE
 </h1>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfbf,100:0077b6&height=120&section=header"/>
@@ -20,7 +20,7 @@ Acredito que **boas práticas**, **aprendizado contínuo** e **colaboração** c
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,nestjs,mysql,firebase,aws,docker,git,github,figma,vscode" height="50" />
@@ -45,9 +45,6 @@ Acredito que **boas práticas**, **aprendizado contínuo** e **colaboração** c
 
 </div>
 
-
-
-## Vamos Conversar
 
 <div align="center">
 
